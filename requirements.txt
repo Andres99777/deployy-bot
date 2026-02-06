@@ -6,3 +6,4 @@ httpx==0.28.1
 hupper==1.12.1
 idna==3.11
 python-telegram-bot==22.6
+flask
